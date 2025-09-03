@@ -1,10 +1,10 @@
-package Array;
+package Unit_3;
 
 import java.util.Scanner;
 
 public class array1 {
     public static void main(String[] args) {
-        int a[]= new int[5];
+        int [] a= new int[5];
         Scanner sc = new Scanner(System.in);
         for(int i=0;i<5;i++)
         {

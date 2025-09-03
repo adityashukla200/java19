@@ -1,3 +1,5 @@
+package Unit_1;
+
 public class schoolStudent extends Student2{
     schoolStudent(int rollNo, String name){
         super(rollNo, name);   //child se parent class ke constructor ko call kar sakte hai
